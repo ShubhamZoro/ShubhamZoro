@@ -25,7 +25,7 @@
 
 ## 📫 Connect With Me
 - Email: in.shubhamshekhar@gmail.com
-- LinkedIn: [https://linkedin.com/in/your-profile]
+- LinkedIn: [[https://linkedin.com/in/your-profile]](https://www.linkedin.com/in/shubham-coder/)
 
 ## ⚡ Fun Fact
 I enjoy building AI systems that solve real-world business problems.
