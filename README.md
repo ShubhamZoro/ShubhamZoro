@@ -2,7 +2,7 @@
 
 ### 🤖 AI Engineer | LLM Engineer | Data Scientist
 
-AI Engineer with 2+ years of experience building production-grade AI systems, Agentic AI applications, Retrieval-Augmented Generation (RAG) pipelines, Computer Vision solutions, and data analytics platforms.
+AI Engineer with 2 years of experience building production-grade AI systems, Agentic AI applications, Retrieval-Augmented Generation (RAG) pipelines, Computer Vision solutions, and data analytics platforms.
 
 I specialize in designing intelligent systems using LLMs, LangGraph, LangChain, FastAPI, Computer Vision, and modern AI infrastructure.
 
