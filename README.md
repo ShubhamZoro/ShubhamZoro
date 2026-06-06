@@ -43,7 +43,7 @@ Snowflake • Power BI • Pandas • NumPy • ETL Pipelines
 
 ### Cloud & DevOps
 
-AWS EC2 • AWS S3 • AWS Lambda • AWS SageMaker • Docker • GitHub Actions
+AWS EC2 • AWS S3 • AWS Lambda • AWS SageMaker • Docker
 
 ### Databases
 
