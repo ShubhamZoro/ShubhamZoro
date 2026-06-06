@@ -31,7 +31,7 @@ TensorFlow • Scikit-Learn • PyTorch • LangChain • LangGraph • OpenAI �
 
 ### RAG & Vector Databases
 
-FAISS • ChromaDB • GraphRAG • Hybrid Search • Cross-Encoder Reranking
+FAISS • ChromaDB • Neo4j • Hybrid Search • Cross-Encoder Reranking
 
 ### Backend & APIs
 
