@@ -53,7 +53,7 @@ PostgreSQL • SQLite • Supabase
 
 ## 💼 Professional Experience
 
-### AI Engineer / Data & Analytics Developer
+### AI Engineer / Software Engineer
 
 Built enterprise AI solutions including:
 
